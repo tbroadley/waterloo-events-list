@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "name": "Test Event",
+    "startTime": "2016-03-05 3:00 PM EST",
+    "endTime": "2016-03-05 5:00 PM EST",
+    "location": "Student Life Centre (SLC)",
+    "description": "A cool event. Come check it out.",
+    "links": [
+      {
+        "name": "Google",
+        "url": "https://www.google.ca",
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com",
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Test Event 2",
+    "startTime": "2016-03-05 9:00 AM EST",
+    "endTime": "2016-03-05 11:00 AM EST",
+    "location": "Physical Activites Complex (PAC)",
+    "description": "This event is cooler than the other test event!"
+  }
+]
