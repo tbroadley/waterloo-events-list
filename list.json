@@ -5,5 +5,45 @@
     "startTime": "2016-04-03 2:00 PM EST",
     "location": "Conrad Grebel University College",
     "image": "Jazz Ensemble Concert.jpg"
+  },
+  {
+    "id": 1,
+    "name": "A Deeper Understanding of the Universe from Two Kilometres Underground",
+    "startTime": "2016-04-13 7:00 PM EST",
+    "links": [
+      {
+        "name": "Info and Tickets",
+        "url": "perimeterinstitute.ca/publiclectures"
+      }
+    ],
+    "location": "Perimeter Institute for Theoretical Physics",
+    "image": "A Deeper Understanding Of.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Back to the Theatre",
+    "startTime": "2016-04-03 7:00 PM EST",
+    "location": "SLC Great Hall",
+    "links": [
+      {
+        "name": "Website",
+        "url": "http://uwcbc.uwaterloo.ca/"
+      }
+    ],
+    "image": "Back to the Theatre.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chiaroscuro: Contrasts in light & dark",
+    "startTime": "2016-04-03 7:30 PM EST",
+    "location": "St. John the Evangelist Church, Kitchener",
+    "image": "Chamber Choir Concert.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Instrumental Chamber Ensemble Concert",
+    "startTime": "2016-04-04 7:30 PM EST",
+    "location": "Conrad Grebel University College",
+    "image": "Instrumental Chamber Ensemble Concert.jpg"
   }
 ]
